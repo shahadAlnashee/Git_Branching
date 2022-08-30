@@ -7,6 +7,4 @@ public class AmazonPage {
     //practicing branches
     //2 practicing branches2
     //3 practicing branches3
-    //html for cart page
-
 }
